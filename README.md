@@ -1,4 +1,8 @@
-### Hi there 👋
+### About me
+
+Estudiante de Ciencia de Datos y Matemáticas Aplicadas @ ITAM
+
+
 
 <!--
 **JoseUlisesQuevedo/JoseUlisesQuevedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
