@@ -1,6 +1,8 @@
 ### About me
 
-Estudiante de Ciencia de Datos y Matemáticas Aplicadas @ ITAM
+Científico de datos
+
+Undergrad: ITAM
 
 
 
