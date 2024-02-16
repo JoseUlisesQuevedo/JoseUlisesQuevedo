@@ -6,6 +6,7 @@ Data Science enthusiast with a passion for turning data into actionable insights
 
 **Data Science Major**, INSTITUTO TECNOLÓGICO AUTÓNOMO DE MÉXICO (ITAM)
 Aug. 2019 – Dec. 2023
+- Names "Best Student" of 2022, as the highest GPA among all students of all majors at ITAM
 - Consistent top performer with extensive coursework in machine learning, statistics, and data manipulation.
 - Global Rhodes Scholarship Finalist
   
@@ -16,7 +17,7 @@ Aug. 2019 – Dec. 2023
 - Data Science Intern, TECNOLÓGICO DE MONTERREY
   - Developed ML models to enhance government employment portals.
 - Research Assistant - Data Scientist, ITAM
--   Led data integration and visualization for social impact projects.
+  - Led data integration and visualization for social impact project.
 
 ### Skills
 
