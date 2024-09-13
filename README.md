@@ -6,7 +6,7 @@ Data Science enthusiast with a passion for turning data into actionable insights
 
 **Data Science Major**, INSTITUTO TECNOLÓGICO AUTÓNOMO DE MÉXICO (ITAM)
 Aug. 2019 – Dec. 2023
-- Names "Best Student" of 2022, as the highest GPA among all students of all majors at ITAM
+- Named "Best Student" of 2022, as the highest GPA among all students of all majors at ITAM
 - Consistent top performer with extensive coursework in machine learning, statistics, and data manipulation.
 - Global Rhodes Scholarship Finalist
   
