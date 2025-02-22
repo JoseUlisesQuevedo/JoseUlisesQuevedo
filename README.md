@@ -1,28 +1,37 @@
 ### About me
 
-Data Science enthusiast with a passion for turning data into actionable insights. Proficient in Python, SQL, R, and various data science technologies. Experienced in machine learning, statistical analysis, and data visualization.
+Data scientist...
 
+
+Currently head of Consulting @ dive.ai, where I help clients implement data science and AI solutions, from the most fundational data warehouse and management solution, to SOTA solutions using LLM's, CV and advanced ML models. As head of consulting, I'm not only tasked with understanding client problems, but translating them into technical solutions and leading the team that implements them. This has lead me to aim for a broad knowledge base rather than a deep one, which is reflected in my multiple interests and knowledge.
+
+Apart from leading the consulting division, I thoroughly enjoy helping everyone in the organization grow to their fullest potential, coding small side-projects with the team and helping out wherever and however I can. Only we can save each other.
+
+
+### Experience
+
+- **Head of consulting** - dive.ai (deep dive data science)
+- **Business Analyst Intern** - MCKINSEY & COMPANY
+  - Conducted data-driven analyses for strategic decision-making.
+  - Learned top probelm solving frameworks and skills
+- **Data Science Intern** - TECNOLÓGICO DE MONTERREY
+  - Developed ML models to enhance government employment portals.
+  - Worked hands on on a large scale data science project leveraging cloud resources
+- **Research Assistant** - ITAM
+  - Led data integration and visualization for social impact project.
+  - Helped Dr. Mauricio Romero scrape and analyze flight path data
+ 
 ### Education
 
 **Data Science Major**, INSTITUTO TECNOLÓGICO AUTÓNOMO DE MÉXICO (ITAM)
 Aug. 2019 – Dec. 2023
 - Named "Best Student" of 2022, as the highest GPA among all students of all majors at ITAM
-- Consistent top performer with extensive coursework in machine learning, statistics, and data manipulation.
 - Global Rhodes Scholarship Finalist
   
-### Experience
-
-- Business Analyst Intern, MCKINSEY & COMPANY
-  - Conducted data-driven analyses for strategic decision-making.
-- Data Science Intern, TECNOLÓGICO DE MONTERREY
-  - Developed ML models to enhance government employment portals.
-- Research Assistant - Data Scientist, ITAM
-  - Led data integration and visualization for social impact project.
-
 ### Skills
 
 **Languages**: Python, SQL, R
-**Technologies**: Machine Learning, Data Visualization, Data Pipelines, PostgreSQL
+**Technologies**: Machine Learning, Data Visualization, Data Pipelines, PostgreSQL, Cloud (AWS, GCP)
 **Soft Skills**: Problem-solving, Communication, Leadership
 
 
