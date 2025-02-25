@@ -3,7 +3,7 @@
 Data scientist...
 
 
-Currently head of Consulting @ dive.ai, where I help clients implement data science and AI solutions, from the most fundational data warehouse and management solution, to SOTA solutions using LLM's, CV and advanced ML models. As head of consulting, I'm not only tasked with understanding client problems, but translating them into technical solutions and leading the team that implements them. This has lead me to aim for a broad knowledge base rather than a deep one, which is reflected in my multiple interests and knowledge.
+Currently head of Consulting @ dive.ai, where I help clients implement data science and AI solutions, from the most foundational data warehouse and data management solution, to SOTA solutions using LLM's, CV and advanced ML models. As head of consulting, I'm not only tasked with understanding client problems, but translating them into technical solutions and leading the team that implements them. This has lead me to aim for a broad knowledge base rather than a deep one, which is reflected in my multiple interests and knowledge.
 
 Apart from leading the consulting division, I thoroughly enjoy helping everyone in the organization grow to their fullest potential, coding small side-projects with the team and helping out wherever and however I can. Only we can save each other.
 
