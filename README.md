@@ -1,61 +1,85 @@
+# English Version
+
 ### About me
-
-Data scientist...
-
-
-Currently head of Technology @ dive.ai, where I help clients implement data science and AI solutions, from the most foundational data warehouse and data management solution, to SOTA solutions using LLM's, CV and advanced ML models. As head of technology, I'm not only tasked with understanding client problems, but translating them into technical solutions and leading the team that implements them. This has lead me to aim for a broad knowledge base rather than a deep one, which is reflected in my multiple interests and knowledge.
-
-Apart from leading the consulting division, I thoroughly enjoy helping everyone in the organization grow to their fullest potential, coding small side-projects with the team and helping out wherever and however I can. Only we can save each other.
-
+Data scientist and engineer, currently pursuing a dual MBA (MIT Sloan) and MS in Computer Science (MIT EECS) through the MIT Leaders for Global Operations (LGO) program.
+Previously, I was Head of Technology at dive.ai (Deep Dive Data Science), where I helped clients implement data science and AI solutions — from foundational data warehousing and data management, to SOTA solutions using LLMs, CV, and advanced ML models. As head of technology, I wasn't only tasked with understanding client problems, but with translating them into technical solutions and leading the team that implemented them. This pushed me toward a broad knowledge base rather than a deep one, which is reflected in my range of interests and skills.
+I also co-founded NeuroVox, an AI startup building speech-based tools for Spanish-speaking Parkinson's patients, where I led the ASR pipeline development, from LoRA fine-tuning of Whisper models to edge hardware prototyping.
+Beyond the technical work, I thoroughly enjoy helping people grow to their fullest potential — whether that was mentoring my team at dive.ai, or now, collaborating with classmates and faculty at MIT. Only we can save each other.
 
 ### Experience
-
-- **Head of technology** - dive.ai (deep dive data science)
-- **Head of consulting** - dive.ai (deep dive data science)
+- **MBA/MS Candidate, Leaders for Global Operations (LGO)** - MIT Sloan School of Management & MIT EECS
+- **Co-founder** - NeuroVox
+  - Led development of a speaker-adaptive ASR pipeline for dysarthric Spanish speech, using LoRA fine-tuning on Whisper and Wav2Vec 2.0 models
+  - Designed hardware prototype (Raspberry Pi-based) and unit economics model for a patient-facing speech monitoring device
+- **Head of Technology** - dive.ai (Deep Dive Data Science)
+- **Head of Consulting** - dive.ai (Deep Dive Data Science)
 - **Business Analyst Intern** - MCKINSEY & COMPANY
-  - Conducted data-driven analyses for strategic decision-making.
-  - Learned top probelm solving frameworks and skills
+  - Conducted data-driven analyses for strategic decision-making
+  - Learned top problem-solving frameworks and skills
 - **Data Science Intern** - TECNOLÓGICO DE MONTERREY
-  - Developed ML models to enhance government employment portals.
-  - Worked hands on on a large scale data science project leveraging cloud resources
+  - Developed ML models to enhance government employment portals
+  - Worked hands-on on a large-scale data science project leveraging cloud resources
 - **Research Assistant** - ITAM
-  - Led data integration and visualization for social impact project.
+  - Led data integration and visualization for a social impact project
   - Helped Dr. Mauricio Romero scrape and analyze flight path data
- 
+
 ### Education
+**MBA / MS Computer Science (Leaders for Global Operations)**, MASSACHUSETTS INSTITUTE OF TECHNOLOGY (MIT)
+Jun. 2026 – Present
 
 **Data Science Major**, INSTITUTO TECNOLÓGICO AUTÓNOMO DE MÉXICO (ITAM)
 Aug. 2019 – Dec. 2023
-- Named "Best Student" of 2022, as the highest GPA among all students of all majors at ITAM
+- GPA: 9.86/10, Honors Distinction
+- Named "Best Student" of 2022, highest GPA among all students of all majors at ITAM
 - Global Rhodes Scholarship Finalist
 - Top 0.18% of class
-  
-### Skills
+- Thesis: "Speaker-Adaptive ASR for Spanish Parkinson's Speech: A LoRA-Based Approach" — 26.4% relative WER reduction
 
+### Skills
 **Languages**: Python, SQL, R, Bash, Java
-**Technologies**: Machine Learning, Data Visualization, Data Pipelines, PostgreSQL, Cloud (AWS, GCP)
+**Technologies**: Machine Learning, LLMs, Data Visualization, Data Pipelines, PostgreSQL, Cloud (AWS, GCP)
 **Soft Skills**: Problem-solving, Communication, Leadership
 
+---
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# Versión en Español
 
+### Sobre mí
+Científico de datos e ingeniero, actualmente cursando una doble titulación de MBA (MIT Sloan) y Maestría en Ciencias de la Computación (MIT EECS) a través del programa MIT Leaders for Global Operations (LGO).
+Anteriormente fui Head of Technology en dive.ai (Deep Dive Data Science), donde ayudaba a clientes a implementar soluciones de ciencia de datos e IA — desde la infraestructura más básica de almacenamiento y gestión de datos, hasta soluciones de vanguardia usando LLMs, visión computacional y modelos avanzados de ML. Como head of technology, mi tarea no era solo entender los problemas de los clientes, sino traducirlos en soluciones técnicas y liderar al equipo que las implementaba. Esto me llevó a buscar una base de conocimiento amplia en lugar de profunda, lo cual se refleja en mis múltiples intereses y habilidades.
+También cofundé NeuroVox, una startup de IA que desarrolla herramientas basadas en voz para pacientes de Parkinson de habla hispana, donde lideré el desarrollo del pipeline de ASR, desde el fine-tuning con LoRA de modelos Whisper hasta el prototipado de hardware embebido.
+Más allá del trabajo técnico, disfruto profundamente ayudar a las personas a alcanzar su máximo potencial — ya fuera mentoreando a mi equipo en dive.ai, o ahora, colaborando con compañeros y profesores en MIT. Solo nosotros podemos salvarnos los unos a los otros.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Experiencia
+- **Candidato a MBA/Maestría, Leaders for Global Operations (LGO)** - MIT Sloan School of Management y MIT EECS
+- **Cofundador** - NeuroVox
+  - Lideré el desarrollo de un pipeline de ASR adaptativo por hablante para voz disártrica en español, usando fine-tuning con LoRA sobre modelos Whisper y Wav2Vec 2.0
+  - Diseñé un prototipo de hardware (basado en Raspberry Pi) y un modelo de unit economics para un dispositivo de monitoreo de voz orientado a pacientes
+- **Head of Technology** - dive.ai (Deep Dive Data Science)
+- **Head of Consulting** - dive.ai (Deep Dive Data Science)
+- **Business Analyst Intern** - MCKINSEY & COMPANY
+  - Realicé análisis basados en datos para la toma de decisiones estratégicas
+  - Aprendí los principales frameworks y habilidades de resolución de problemas
+- **Data Science Intern** - TECNOLÓGICO DE MONTERREY
+  - Desarrollé modelos de ML para mejorar portales gubernamentales de empleo
+  - Trabajé de forma práctica en un proyecto de ciencia de datos a gran escala usando recursos en la nube
+- **Research Assistant** - ITAM
+  - Lideré la integración y visualización de datos para un proyecto de impacto social
+  - Ayudé al Dr. Mauricio Romero a extraer y analizar datos de rutas de vuelo
 
+### Educación
+**MBA / Maestría en Ciencias de la Computación (Leaders for Global Operations)**, MASSACHUSETTS INSTITUTE OF TECHNOLOGY (MIT)
+Jun. 2026 – Presente
 
+**Licenciatura en Ciencia de Datos**, INSTITUTO TECNOLÓGICO AUTÓNOMO DE MÉXICO (ITAM)
+Ago. 2019 – Dic. 2023
+- Promedio: 9.86/10, Mención Honorífica
+- Nombrado "Mejor Estudiante" de 2022, el promedio más alto entre todos los estudiantes de todas las carreras en el ITAM
+- Finalista global de la Beca Rhodes
+- Top 0.18% de su generación
+- Tesis: "ASR Adaptativo por Hablante para Voz de Parkinson en Español: Un Enfoque Basado en LoRA" — 26.4% de reducción relativa en WER
 
-<!--
-**JoseUlisesQuevedo/JoseUlisesQuevedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Habilidades
+**Lenguajes**: Python, SQL, R, Bash, Java
+**Tecnologías**: Machine Learning, LLMs, Visualización de Datos, Pipelines de Datos, PostgreSQL, Cloud (AWS, GCP)
+**Habilidades blandas**: Resolución de problemas, Comunicación, Liderazgo
