@@ -13,6 +13,10 @@ Beyond the technical work, I thoroughly enjoy helping people grow to their fulle
   - Designed hardware prototype (Raspberry Pi-based) and unit economics model for a patient-facing speech monitoring device
 - **Head of Technology** - dive.ai (Deep Dive Data Science)
 - **Head of Consulting** - dive.ai (Deep Dive Data Science)
+- **Independent Consultant and Lecturer** 
+  - Redesigned IMCO's State Competitiveness Index using principal component analysis (PCA) and more than 100 indicators, developing sub-indices and a composite metric adopted for state-level policy evaluation across Mexico.
+  - Built end-to-end data infrastructure—including a data warehouse and ETL pipelines—to launch the data science function of a fertilizer manufacturing company, making more than one million data points available for analysis.
+  - Taught Linear Algebra and Differential Calculus to engineering students at Universidad Panamericana.
 - **Business Analyst Intern** - MCKINSEY & COMPANY
   - Conducted data-driven analyses for strategic decision-making
   - Learned top problem-solving frameworks and skills
@@ -57,6 +61,10 @@ Más allá del trabajo técnico, disfruto profundamente ayudar a las personas a 
   - Diseñé un prototipo de hardware (basado en Raspberry Pi) y un modelo de unit economics para un dispositivo de monitoreo de voz orientado a pacientes
 - **Head of Technology** - dive.ai (Deep Dive Data Science)
 - **Head of Consulting** - dive.ai (Deep Dive Data Science)
+- **Consultor Independiente y Profesor** 
+  - Rediseñé el Índice de Competitividad Estatal del IMCO utilizando análisis de componentes principales (PCA) y más de 100 indicadores, desarrollando subíndices y una métrica compuesta adoptada para la evaluación de políticas públicas a nivel estatal en México.
+  - Diseñé e implementé una infraestructura de datos de extremo a extremo, incluyendo un almacén de datos (*data warehouse*) y procesos ETL, para crear la función de ciencia de datos de una empresa manufacturera de fertilizantes, poniendo a disposición más de un millón de registros para análisis.
+  - Impartí cursos de Álgebra Lineal y Cálculo Diferencial a estudiantes de ingeniería en la Universidad Panamericana.
 - **Business Analyst Intern** - MCKINSEY & COMPANY
   - Realicé análisis basados en datos para la toma de decisiones estratégicas
   - Aprendí los principales frameworks y habilidades de resolución de problemas
